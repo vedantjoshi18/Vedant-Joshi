@@ -1,4 +1,4 @@
-**Hi there, I'm Vedant Joshi👋**
+#Hi there, I'm Vedant Joshi👋
 
 I build, I secure, and I create.
 I'm a passionate developer and security enthusiast with a knack for turning complex problems into elegant, secure solutions. My world revolves around the logic of code, the strategy of digital defense, and the art of a well-told story.
